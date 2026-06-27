@@ -1,0 +1,11 @@
+﻿# Go build output
+*.exe
+*.test
+*.out
+
+# Go module cache
+vendor/
+
+# Private working documents
+phase3-task-specification.md
+phase3-verification-report.md

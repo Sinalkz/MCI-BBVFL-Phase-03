@@ -1,0 +1,11 @@
+[
+  {
+    "name": "collectionLossDetails",
+    "policy": "OR('MCIMSP.member', 'BankMSP.member')",
+    "requiredPeerCount": 0,
+    "maxPeerCount": 1,
+    "blockToLive": 0,
+    "memberOnlyRead": true,
+    "memberOnlyWrite": true
+  }
+]
